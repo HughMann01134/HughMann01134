@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HughMann01134
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Bug Bounty, and Computer Forensics
